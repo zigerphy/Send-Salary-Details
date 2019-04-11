@@ -9,15 +9,15 @@
   3.为了方便保存一些配置、需要在脚本目录写入一个配置文件
 
 脚本：
-  gui.py
+  gui.py：
   就是ui版的入口
-  salary_detail_sender.py
+  salary_detail_sender.py：
   黑窗口版的入口
-  mail_handler.py
+  mail_handler.py：
   登录邮箱、发送邮件的小工具
-  table_utils.py
+  table_utils.py：
   工资表表头可能会有合并单元格、这里面会处理单元格。
-  Analysis_excel.py
+  Analysis_excel.py：
   读取表格中的内容
 
 ## 问题
